@@ -17,5 +17,5 @@ jobs:
       uses: zaproxy/action-baseline@v0.3.0
       with:
         # Target URL
-        target: https://blog.jonathanchannon.com
+        target: https://onboarding.gpsa.veroo.io/
         
